@@ -7,21 +7,21 @@
 ## A. NHIỆM VỤ 1 — CHẨN ĐOÁN 3 SAI LẦM CHÍ MẠNG (30 điểm)
 
 
-### 1.1. SAI LẦM #1 — Hai chữ A ở cùng một đầu việc (Slide)
+### 1. SAI LẦM #1 — Hai chữ A ở cùng một đầu việc (Slide)
 
 - Linh và Huy cùng được gán A nên không xác định được một người chịu trách nhiệm cuối cùng. Cả hai dễ hiểu rằng người kia sẽ lo phần slide, nên không ai chủ động bắt đầu
  
   => Kết quả là đến gần hạn, phần slide vẫn bỏ trống.
   
 
-### 1.2. SAI LẦM #2 — Hoàng ôm quá nhiều chữ A (Nhóm trưởng)
+### 2. SAI LẦM #2 — Hoàng ôm quá nhiều chữ A (Nhóm trưởng)
 
  - Hoàng vừa làm R vừa giữ A ở nhiều việc nên trở thành điểm nghẽn của cả nhóm
 
    => Khi Hoàng quá tải, tiến độ chung cũng chậm; đồng thời các bạn khác dễ có tâm lý chờ Hoàng xử lý thay vì tự chịu trách nhiệm phần mình.
 
 
-### 1.3. SAI LẦM #3 — Mai chỉ được gán duy nhất chữ I (Cô lập thành viên)
+### 3. SAI LẦM #3 — Mai chỉ được gán duy nhất chữ I (Cô lập thành viên)
   
   - Mai chỉ có vai trò I nên gần như không có nhiệm vụ trực tiếp và không tạo ra sản phẩm cho bài
 
