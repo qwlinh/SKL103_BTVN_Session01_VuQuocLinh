@@ -1,5 +1,5 @@
 
-# 📘 BÀI TẬP VỀ NHÀ — SKL103: KỸ NĂNG LÀM VIỆC NHÓM
+#  BÀI TẬP VỀ NHÀ — SKL103: KỸ NĂNG LÀM VIỆC NHÓM
 ## PHÂN TÍCH KHỦNG HOẢNG PHÂN CÔNG TRÁCH NHIỆM VÀ TÁI THIẾT LẬP QUY CHUẨN
 
 ---
