@@ -46,10 +46,11 @@
 ### 1. ĐIỀU KHOẢN 1 — PHẢN HỒI TIN NHẮN LARK
  - Khi được tag tên, thành viên phải trả lời trong tối đa 6 giờ (trong khoảng 07:00–22:00) bằng một câu xác nhận như “Đã nhận, mình sẽ hoàn thành trước …”. Thả tim hoặc chỉ seen không được tính là phản hồi.
  - Nếu không thể phản hồi đúng thời gian, thành viên phải báo lý do; nếu bỏ qua nhiều lần, nhóm có quyền ghi nhận và phân lại phần việc để bảo đảm tiến độ.
+
 ### 2. ĐIỀU KHOẢN 2 — LƯU TRỮ BÀI TẬP CHUNG TRÊN GOOGLE DRIVE
  - Nhóm tạo một thư mục Drive chung để lưu toàn bộ tài liệu
  -  File phải được đặt tên theo mẫu “Nhom_HoTenNoiDung_v01”, sau đó tăng phiên bản v02, v03… khi chỉnh sửa.
- -   File phải được đặt tên theo mẫu “Nhom_HoTenNoiDung_v01”, sau đó tăng phiên bản v02, v03… khi chỉnh sửa.
+
 ### 3. ĐIỀU KHOẢN 3 — HỖ TRỢ KHI GẶP KHÓ KHĂN
    Khi phần việc bị nghẽn hoặc có nguy cơ trễ, thành viên phải chủ động báo cho nhóm ít nhất 24 giờ trước hạn của phần việc, nêu rõ khó khăn và phần hỗ trợ cần thiết. Nhóm sẽ phân người hỗ trợ hoặc điều chỉnh phần việc. Việc báo sớm được xem là tinh thần trách nhiệm; tự im lặng đến sát hạn sẽ bị ghi nhận là vi phạm quy ước làm việc chung.
 
