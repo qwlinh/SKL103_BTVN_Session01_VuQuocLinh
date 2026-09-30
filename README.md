@@ -21,7 +21,7 @@
    => Khi Hoàng quá tải, tiến độ chung cũng chậm; đồng thời các bạn khác dễ có tâm lý chờ Hoàng xử lý thay vì tự chịu trách nhiệm phần mình.
 
 
-### 3. SAI LẦM #3 — Mai chỉ được gán duy nhất chữ I (Cô lập thành viên)
+### 3. SAI LẦM #3 — Mai chỉ được gán duy nhất chữ I 
   
   - Mai chỉ có vai trò I nên gần như không có nhiệm vụ trực tiếp và không tạo ra sản phẩm cho bài
 
