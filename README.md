@@ -39,7 +39,7 @@
 | **4** | Soạn dàn ý bài nói và thuyết trình thử | **C** | **C** | **I** | **A + R** | Thứ Năm (tuần 2) | Tự tin, nói mạch lạc trong 8–10 phút |
 | **5** | Rà soát toàn bộ và nộp file lên hệ thống trường | **R** | **A** | **C** | **I** | Thứ Sáu (tuần 2) | Đúng định dạng PDF/PPTX, đúng hạn |
 
-> 📌 **Ký hiệu:** **R** = Trực tiếp làm · **A** = Chịu trách nhiệm chính (duy nhất 1/dòng) · **C** = Được hỏi ý kiến · **I** = Nhận thông báo
+>  **Ký hiệu:** **R** = Trực tiếp làm · **A** = Chịu trách nhiệm chính (duy nhất 1/dòng) · **C** = Được hỏi ý kiến · **I** = Nhận thông báo
 
 ## C. NHIỆM VỤ 3 — 3 ĐIỀU KHOẢN TWA "CHỮA CHÁY" CẤP BÁCH (25 điểm)
 
